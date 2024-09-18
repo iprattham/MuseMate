@@ -1,4 +1,4 @@
 # MuseMate
 
-<u>Team Members</u>:
+Team Members:
 1. Pratham
